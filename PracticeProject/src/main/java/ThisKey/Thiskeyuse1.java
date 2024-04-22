@@ -1,7 +1,6 @@
 package ThisKey;
 
-public class Thiskeyuse1 {
-	class ThisKeyUse2
+public class Thiskeyuse1 
 	{
 	public void phrase()
 	{
@@ -18,7 +17,7 @@ public class Thiskeyuse1 {
 	obj.phrase();
 	}
 	}
-}
+
 
 
 
